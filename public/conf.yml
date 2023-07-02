@@ -13,6 +13,9 @@ appConfig:
   language: zh-CN
   layout: auto
   statusCheck: true
+  enableFontAwesome: true
+  enableMaterialDesignIcons: true
+  preventWriteToDisk: true
   disableConfigurationForNonAdmin: true
   auth:
     enableGuestAccess: true
