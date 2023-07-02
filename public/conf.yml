@@ -15,7 +15,7 @@ appConfig:
   statusCheck: true
   enableFontAwesome: true
   enableMaterialDesignIcons: true
-  preventWriteToDisk: true
+  preventWriteToDisk: false
   disableConfigurationForNonAdmin: true
   auth:
     enableGuestAccess: true
