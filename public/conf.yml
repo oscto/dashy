@@ -15,7 +15,7 @@ appConfig:
   statusCheck: true
   disableConfigurationForNonAdmin: true
   auth:
-    enableGuestAccess: false
+    enableGuestAccess: true
     users:
       - user: admin
         hash: f6afbafb13ed03688eec45131199d341a9a42dfdacefe5ab17e24a12cf7da313
